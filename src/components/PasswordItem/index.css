@@ -1,0 +1,60 @@
+.initial {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 50%;
+    font-family: 'Roboto';
+    font-size: 20px;
+    font-weight: 800;
+    color: #ffffff;
+    background-color: #0ea5e9;
+  }
+  
+  .title {
+    font-family: 'Roboto';
+    font-size: 12px;
+    font-weight: 600;
+    color: #b6c3ca;
+  }
+  
+  .stars {
+    width: 50%;
+  }
+  
+  .websiteDetials {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .initial-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 6px;
+  }
+  
+  .delete {
+    height: 22px;
+    width: 22px;
+  }
+  
+  .deleteBtn {
+    height: 22px;
+    width: 22px;
+    background-color: transparent;
+    outline: none;
+    border-width: 0px;
+    color: #ffffff;
+  }
+  
+  .passwordItem {
+    border: 1px solid #7683cb;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 250px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 6px;
+  }
